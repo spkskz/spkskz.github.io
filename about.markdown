@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello from the other side, My name is Sopheak, a software engineer from Cambodia. I have been working professionally with codes for about 10 years. This site will serves as a place for my collection of insights on software development, career and life.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+Hit me up on:
+[telegram](https://t.me/spspsp000) /
+[phone](tel:+85516985551) /
+[linkedin](https://www.linkedin.com/in/sopheaksek/)
 
 [jekyll-organization]: https://github.com/jekyll
